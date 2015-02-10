@@ -1,0 +1,26 @@
+{
+  "name": "prototype-inheritance-angularjs-ngannotate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shprink/prototype-inheritance-angularjs-ngannotate.git"
+  },
+  "author": "shprink <contact@julienrenaux.fr> (http://julienrenaux.fr/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shprink/prototype-inheritance-angularjs-ngannotate/issues"
+  },
+  "homepage": "https://github.com/shprink/prototype-inheritance-angularjs-ngannotate",
+  "devDependencies": {
+    "ng-annotate-webpack-plugin": "^0.1.2",
+    "webpack": "^1.4.13"
+  },
+  "dependencies": {
+    "augment": "^4.3.0"
+  }
+}
